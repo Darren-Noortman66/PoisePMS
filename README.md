@@ -26,7 +26,7 @@ Now that you have the program running, you will have options/ instructions print
 
 To test your input/ code, you can look at the output printed on the screen to see if the information inserted is correct.
 
-
+(*NB: When installing Intellij, make sure you install the correct package for your operating system e.g Windows. The use of Intellij is universal.
 ## How you can help
 
 No help is needed right now, as this project is complete. However, if you do see improvements that can be made, then please feel free to point them out :D
